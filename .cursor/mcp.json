@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "bitcli": {
+      "url": "https://mcp.bitcli.io/mcp/sse"
+    }
+  }
+}
